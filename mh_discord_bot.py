@@ -3,7 +3,7 @@ import sqlite3
 
 
 #discord code
-TOKEN = 'NDM5NTc5MDE4OTMzNTY3NDkz.DcVN2Q.dbQas-EwIggCWRQDkOreu2rld9g'
+TOKEN = 'NTY3MDcxNTc4Nzk4NTU1MTYy.XLOONg._VogNHK3c555EeWNN6HfOggSe_c'
 
 client = discord.Client()
 
